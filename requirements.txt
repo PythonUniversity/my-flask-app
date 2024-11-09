@@ -1,0 +1,6 @@
+numpy==1.*
+Flask
+gunicorn
+yfinance
+pandas
+
